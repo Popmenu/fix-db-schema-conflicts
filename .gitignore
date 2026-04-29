@@ -13,3 +13,6 @@
 *.a
 mkmf.log
 *.gem
+.idea/
+.ruby-version
+.tool-versions
